@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /internal/
+
+# Backup of old site structure for compliance:
+# Check Wayback Machine for snapshots prior to Feb 2026
